@@ -1,0 +1,5 @@
+D:/mp2-lab1-set-master/build/CMakeFiles/ALL_BUILD.dir
+D:/mp2-lab1-set-master/build/CMakeFiles/ZERO_CHECK.dir
+D:/mp2-lab1-set-master/build/src/CMakeFiles/circles.dir
+D:/mp2-lab1-set-master/build/gtest/CMakeFiles/gtest.dir
+D:/mp2-lab1-set-master/build/test/CMakeFiles/test_circles.dir
