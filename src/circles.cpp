@@ -21,7 +21,7 @@ int circles(string path)
     int maxnum = -1;
 
     ifstream file;
-    file.open(path);
+    file.open(path.c_str());
 
     if (!file)
     {
@@ -29,7 +29,6 @@ int circles(string path)
     }
     else
     {
-//        cout << "File is opened\n\n";
         string line;
 
         if (file.peek() == EOF) return -1;
