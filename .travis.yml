@@ -6,7 +6,7 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../mp2-lab1-set
+  - cmake ../Task
   - make -j
   - cd ./bin/
   - ./test_set --gtest_list_tests
