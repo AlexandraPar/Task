@@ -11,10 +11,10 @@ using namespace std;
 
 int circles(string path)
 {
-    vector <int> n = {};
-    vector <double> radius1 = {};
-    vector <double> x1 = {};
-    vector <double> y1 = {};
+    vector <int> n;
+    vector <double> radius1;
+    vector <double> x1;
+    vector <double> y1;
 
     double d = 0.0;
     int maxnum = -1;
