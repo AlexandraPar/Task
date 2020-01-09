@@ -1,4 +1,4 @@
-# PMD
+# Product requirements document 
 
 <p>input file format – txt file should be used;</p>
 <p>data format within a file - one line represents one circle;</p>
