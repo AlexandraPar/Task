@@ -2,13 +2,13 @@
 #include "circles.h"
 
 TEST(Circles, CirclesDefaultFile) {
-    EXPECT_NE(circles("D:\\mp2-lab1-set-master\\examples\\task.txt"), -1);
+    EXPECT_NE(circles("..\\..\\examples\\task.txt"), -1);
 };
 
 TEST(Circles, FindingTheBiggestWithoutIntersections) {
-    ASSERT_EQ(circles("D:\\mp2-lab1-set-master\\examples\\emptest.txt"), -1);
+    ASSERT_EQ(circles("..\\..\\examples\\emptest.txt"), -1);
 };
 
 TEST(Circles, FileDoNotOpen) {
-    ASSERT_EQ(circles("D:\\task.txt"), -1);
+    ASSERT_EQ(circles("..\\..\\wrong.txt"), -1);
 };
