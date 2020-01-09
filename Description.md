@@ -1,5 +1,4 @@
 # Description
-========================================================
 
 <p>The program has a module that searches for a circle that does not intersect with other circles and has the largest radius.<p>
 <p>The main function "circles" is defined in circles.h file, implemented in circles.cpp file.</p>
