@@ -1,4 +1,4 @@
-## Description
+# Description
 ========================================================
 
 <p>The program has a module that searches for a circle that does not intersect with other circles and has the largest radius.<p>
@@ -9,7 +9,7 @@
 
 ---------------------------------------------------------
 
-<p>Example of input data contained in a file:</p>
+## Example of input data contained in a file:
 <p>0,96.8596454,35.9630116,18.85815 <br>
 1,148.667867,62.4835963,18.8303781 <br>
 2,175.511948,148.912015,5.1965392 <br>
