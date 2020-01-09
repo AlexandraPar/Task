@@ -1,0 +1,9 @@
+The program has a module that searches for a circle that does not intersect with other circles and has the largest radius.
+
+The main function "circles" is defined in circles.h file, implemented in circles.cpp file.
+
+To test the module, Google-test is created, which uses the file path as input.txt containing the data to be processed. One line of the file represents one circle. Each line is a set of comma separated values. First one is circled, the circle center, the circle radius.
+
+The program contains a module which returns the index of the desired circle in the case of correctly entered data. If the data is entered incorrectly, the program will end with the error code "-1". In this case, the Google-test "CirclesDefaultFile" will have the status " FAILED".
+
+For automatic testing of versions on the repository, using the CI (Continuous Integration like) systems of TravisCI and AppVeydor. 
