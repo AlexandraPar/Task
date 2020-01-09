@@ -9,6 +9,6 @@ script:
   - cmake ../Task
   - make -j
   - cd ./bin/
-  - ./test_set --gtest_list_tests
+  - ./test_circles --gtest_list_tests
 notifications:
   email: false
