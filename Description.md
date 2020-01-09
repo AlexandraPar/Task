@@ -1,5 +1,5 @@
 ## Description
-================================================================================================================
+========================================================
 
 <p>The program has a module that searches for a circle that does not intersect with other circles and has the largest radius.<p>
 <p>The main function "circles" is defined in circles.h file, implemented in circles.cpp file.</p>
@@ -7,7 +7,7 @@
 <p>The program contains a module which returns the index of the desired circle in the case of correctly entered data. If the data is entered incorrectly, the program will end with the error code "-1". In this case, the Google-test "CirclesDefaultFile" will have the status " FAILED".</p>
 <p>For automatic testing of versions on the repository, using the CI (Continuous Integration like) systems of TravisCI and AppVeyor. </p>
 
----------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------
 
 <p>Example of input data contained in a file:</p>
 <p>0,96.8596454,35.9630116,18.85815 <br>
